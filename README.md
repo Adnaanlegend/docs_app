@@ -1,8 +1,21 @@
-# React + Vite
+I have created this project to mimic touch in laptop/mobile devices, 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To further enhance the user experience for my 3D Portfolio - https://iadnaan.netlify.app/ 
 
-Currently, two official plugins are available:
+*Note - Use laptop for better user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stacks used in this - React, TailwindCSS, Framer motion
+
+Live Link - https://dragments.netlify.app/
+
+Kindly Star the project and Fork it for further development.
+
+Thank you.
+
+Steps to Initiate the project - 
+
+---> Open Empty folder in IDE of your choice.
+---> Open terminal - git clone "Insert Repo Link Here" 
+---> cd into the project, install dependencies( npm install) and "npm run dev"
+
+Voila, It's working.
